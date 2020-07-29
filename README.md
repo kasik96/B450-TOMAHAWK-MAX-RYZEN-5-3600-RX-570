@@ -1,0 +1,2 @@
+# B450-TOMAHAWK-MAX-RYZEN-5-3600-RX-570
+This is OpenCore EFI files for B450 TOMAHAWK MAX, Ryzen 5 3600 and RX 570
