@@ -4,6 +4,9 @@ Before you start, my recommendation is not to use my EFI files blindly. Best sta
 
 The best guide you should and that I used is here: https://dortania.github.io/
 
+![](https://github.com/kasik96/B450-TOMAHAWK-MAX-RYZEN-5-3600-RX-570/blob/master/IMG_4444.png)
+![](https://github.com/kasik96/B450-TOMAHAWK-MAX-RYZEN-5-3600-RX-570/blob/master/IMG_4443.png)
+
 ### My Setup:
 - Case: MSI MAG FORGE 100M (not relevant, just wanted to show)
 - CPU: AMD Ryzen 5 3600 
